@@ -2,7 +2,6 @@
 */
 #include <iostream>
 #include "Pair.h"
-#include "Pair.cpp"
 // The following code was given in the final quiz for the lecture.
 // This main() function will help you test your work. 
 // Click Run to see what happens.

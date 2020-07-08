@@ -1,0 +1,10 @@
+#include "Example.h"
+#include <iostream>
+int main(){
+	Example a;
+	a.a = 7;
+	a.b = 6;
+	int b = a.someFunc();
+	std::cout << "The subtraction between the two is:" << b << std::endl;	
+	return 0;
+}

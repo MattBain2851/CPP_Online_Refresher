@@ -1,0 +1,11 @@
+// Key Concepts learned in the class. 
+Key Concepts
+
+    C++ language syntax 
+    Writing, compiling and debugging code 
+    Interactive development environment (IDE) 
+    C++ classes 
+    Implementation v. header files 
+    Public v. private elements of a class 
+    Linking to external libraries to access helper routines 
+    Namespaces

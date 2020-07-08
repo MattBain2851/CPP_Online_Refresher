@@ -1,0 +1,6 @@
+// Key Concepts. this is all still review for me, but I wanted you to see the minimum that I can do. Will be adding more to the github throughout the summer.
+Key Concepts
+
+    Pointers and dereferencing 
+    Local (stack) memory 
+    Allocated (heap) memory

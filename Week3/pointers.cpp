@@ -1,9 +1,4 @@
-/* Class Pair has already been declared
- * as shown in the following comments:
- *
-
- * Implement its member functions below.
- */
+//just showing how pointers work, basically  
 #include <iostream>
  class Pair {
   public:
@@ -51,7 +46,7 @@ int main() {
   Pair *hp = new Pair(23,42);
   std::cout << *hp->pa << " Line 3" << std::endl;
   std::cout << *hp->pb << " Line 4" << std::endl;
-  delete hp;
+  delete hp;// deleting from the heap
   
   std::cout << "If this message is printed,"
     << " at least the program hasn't crashed yet!\n"

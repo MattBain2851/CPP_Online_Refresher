@@ -1,0 +1,7 @@
+Key Concepts
+
+    Object-oriented design 
+    Templates 
+    Class hierarchies and inheritance
+
+Note: the code challenges for this week had a lot of code that I am not allowed to publish, but I have similarly complex assignments in other folders.
